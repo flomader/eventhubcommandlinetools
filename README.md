@@ -1,4 +1,4 @@
-# eventhubcommandlinetools
+# EventHub Command-line Tools
 
 eventhub-console-consumer --endpoint --name --sas --key
 
