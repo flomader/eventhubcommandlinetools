@@ -1,0 +1,19 @@
+{
+  "name": "eventhub-console-consumer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "eventhub-console-consumer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "azure-event-hubs": "0.0.8",
+    "commander": "2.11.0"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "eventhub-console-consumer": "./lib/main.js"
+  }
+}
